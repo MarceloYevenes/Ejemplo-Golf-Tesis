@@ -5,7 +5,7 @@
 1. Para usar el código simplemente ejecutar en la misma carpeta del código <strong>javac golfJava.java</strong>
 2. Luego ejecutar <strong>java golfJava</strong>
 
-Nota: El código puede ser abierto con algún IDE que soporte el lenguaje, en este caso fue ejecutado con la termina de ubuntu
+Nota: El código puede ser abierto con algún IDE que soporte el lenguaje, en este caso fue ejecutado con la terminal de ubuntu
 
 ### Edición de párametros
 
