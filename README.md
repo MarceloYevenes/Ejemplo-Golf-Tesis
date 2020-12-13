@@ -17,7 +17,7 @@ en donde las varaibles son:
 * paramHumedad
 * paramViento
 
-Cada una de estas variables tiene opciones válidas para que el código funcione, las opciones disponibles por varaible son:
+Cada una de estas variables tiene opciones válidas para que el código funcione, las opciones disponibles por variable son:
 
 * paramCielo = Lluvia, Soleado, Nublado.
 * paramTemp = Calor, Templado, Frío. 
