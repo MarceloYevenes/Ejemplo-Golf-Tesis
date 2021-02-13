@@ -10,7 +10,7 @@ Nota: El código puede ser abierto con algún IDE que soporte el lenguaje, en es
 ### Edición de párametros
 
 Para buscar la probabilidad de que ocurra otro evento simplemente se deben modificar los párametros ubicados en la lineas 27 a 30,
-en donde las varaibles son: 
+en donde las variables son: 
 
 * paramCielo
 * paramTemp
